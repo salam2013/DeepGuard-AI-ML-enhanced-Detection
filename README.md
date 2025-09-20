@@ -1,2 +1,2 @@
 # DeepGuard-AI-ML-enhanced-Detection
-DeepGuard AI — ML-enhanced Detection dummy project
+DeepGuard AI, a multi-modal deepfake detection tool!
