@@ -100,7 +100,6 @@ python-docx
 odfpy
 ```
 
-*(Add ML frameworks such as `torch` and `transformers` later if you integrate real models.)*
 
 ---
 
@@ -151,7 +150,18 @@ AI Likelihood Score: 86.6%
 
 Verdict: Likely AI-generated (above 60% threshold)
 --
-  Repeat the process with Text, Audio, vedio 
+  
+
+Repeat for Text
+
+<img width="1906" height="738" alt="Screenshot 2025-09-21 185735" src="https://github.com/user-attachments/assets/14775b11-a02e-4eb0-9c0d-acbf3201c019" />
+**Text result**
+
+AI Likelyhood is 88.0%
+--
+ 
+
+**Repeat the process with Audio, vedio** 
 
 
 
