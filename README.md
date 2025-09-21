@@ -125,6 +125,13 @@ Input: IMAGE
    ![photo_2025-09-01_22-05-49](https://github.com/user-attachments/assets/a626e4ac-96ff-4e35-83b2-68cefdb408c5)
 
 Original
+
+
+<img width="1905" height="558" alt="Screenshot 2025-09-21 191549" src="https://github.com/user-attachments/assets/657c9ea5-bd60-4f84-802e-fa6dfd89b519" />
+
+Original picture Analysis result
+
+
 --
 
    
