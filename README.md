@@ -155,7 +155,7 @@ Verdict: Likely AI-generated (above 60% threshold)
 Repeat for Text
 
 <img width="1906" height="738" alt="Screenshot 2025-09-21 185735" src="https://github.com/user-attachments/assets/14775b11-a02e-4eb0-9c0d-acbf3201c019" />
-**Text result**
+result
 
 AI Likelyhood is 88.0%
 --
